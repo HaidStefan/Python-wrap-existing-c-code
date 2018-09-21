@@ -42,7 +42,7 @@ compiled with a 64bit compiler. For only 100 function calls the difference is no
 | Technology | Average time |
 |------------|--------------|
 | Python     | 36.391 s    |
-| C          | 0.798 s     |
+| C          | 0.810 s     |
 | CFFI_ABI   | 0.822 s     |
 | CFFI_API   | 0.816 s     |
 | SWIG       | 0.821 s     |
